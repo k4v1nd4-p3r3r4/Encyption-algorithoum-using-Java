@@ -72,11 +72,7 @@ Enter a message to encrypt: Hello World
 Encrypted Message: [encrypted string]
 Encryption Key (save this securely): [base64 key]
 
-## Example
 
-**Encrypting a Message:**
-
-```plaintext
 Enter the encrypted message to decrypt: [encrypted string]
 Enter the key for decryption: [base64 key]
 Decrypted Message: Hello World
